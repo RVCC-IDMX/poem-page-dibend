@@ -94,7 +94,6 @@ body {
   background-image: url("../img/jellyfish.jpg");
   color: gold;
   text-shadow: 2px 2px 2px darkblue;
-  padding-bottom: 3em;
   animation: fadeInOut 3s infinite;
 }
 
@@ -146,4 +145,11 @@ a:active {
   a:hover {
     color: yellow;
   }
+}
+
+img {
+  border-radius: 1em;
+  box-shadow: 3px 3px 3px darkblue;
+  margin-left: auto;
+  margin-right: auto;
 }
