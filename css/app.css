@@ -88,7 +88,7 @@ select {
 }
 
 body {
-  font-family: 'Aboreto', cursive;
+  font-family: 'Aboreto', sans-serif;
   font-size: 3rem;
   text-align: center;
   background-image: url("../img/jellyfish.jpg");
@@ -109,7 +109,7 @@ h3 {
   padding-bottom: 1em;
 }
 
-p {
+#credits {
   font-size: 1.5rem;
   padding-top: 1.5em;
 }
@@ -148,7 +148,7 @@ a:active {
 }
 
 img {
-  border-radius: 1em;
+  border-radius: 50%;
   box-shadow: 3px 3px 3px darkblue;
   margin-left: auto;
   margin-right: auto;
